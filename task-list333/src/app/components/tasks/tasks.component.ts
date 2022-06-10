@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Task } from '../../Task';
 import { TASKS } from '../../mock-Tasks';
+
 @Component({
   selector: 'app-tasks',
   templateUrl: './tasks.component.html',
@@ -8,6 +9,7 @@ import { TASKS } from '../../mock-Tasks';
 })
 export class TasksComponent implements OnInit {
   tasks:Task  []=TASKS  ;
+ 
   constructor() { }
 
   ngOnInit(): void {
