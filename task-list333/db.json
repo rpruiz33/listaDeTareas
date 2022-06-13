@@ -1,14 +1,5 @@
-{"tasks": [
-
-  {
-    "id": 1,
-    "text":"terminar el modulo de angular",
-    "day" : "agosto 5 a las 12 hs",
-    "reminder": true
-
-
- }  ,
- {
+{
+  "tasks": [{
     "id": 2,
     "text":"hacer las compras",
     "day" : "agosto 5 a las 17 hs",
@@ -25,22 +16,14 @@
  } ,
  {
     "id": 4,
-   "text":"leer mi libro favorito",
+    "text":"leer mi libro favorito",
     "day" : "agosto 5 a las 20 hs",
     "reminder" : false
 
 
- } ,
- {
-  "id": 5,
- "text":"ir al banco",
-  "day" : "agosto 5 a las 20 hs",
-  "reminder" : false
+ }  ]
 
 
-} 
-]
-   
 
-}
-
+  
+}       
