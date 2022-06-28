@@ -2,10 +2,10 @@
     background-color: #f4f4f4;
     margin:5px;
     padding:10px 20 px;
-    cursor:porinter;
+    cursor:pointer;
 }
 .task.reminder{
-    border-left: 5px solid green;
+    border-left: 5px solid rgb(231, 14, 14);
 }
 .task h3{
     display:flex;

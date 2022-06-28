@@ -1,29 +1,88 @@
 {
-  "tasks": [{
-    "id": 2,
-    "text":"hacer las compras",
-    "day" : "agosto 5 a las 17 hs",
-    "reminder" : true
-
-
- } ,{
-    "id": 3,
-    "text":"inveestigar sobre angular",
-    "day" : "agosto 5 a las 18 hs",
-    "reminder" : false
-
-
- } ,
- {
-    "id": 4,
-    "text":"leer mi libro favorito",
-    "day" : "agosto 5 a las 20 hs",
-    "reminder" : false
-
-
- }  ]
-
-
-
-  
-}       
+  "tasks": [
+    {
+      "text": "Terminar el modulo 3",
+      "day": "domingo 19 de junio 17 hs",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Terminar el modulo 4",
+      "day": "lunes 20 de junio 17 hs",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Preparar el final de Matematica 2",
+      "day": "lunes 20 de junio 19 hs",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Terminar el bloque 4 Matematica 3 ",
+      "day": "lunes 20 de junio 21 hs",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Buscar trabajo",
+      "day": "lunes 20 de junio 22 hs",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Despertarse a las 5 am",
+      "day": "martes 21 de junio 5 hs",
+      "reminder": true,
+      "id": 7
+    },
+    {
+      "text": "Invesstigar sobre bootstrap",
+      "day": "martes 21 de junio 7 hs",
+      "reminder": true,
+      "id": 8
+    },
+    {
+      "text": "Darle mas estilo y funcionalidad a esta app web",
+      "day": "martes 21 de junio 9 hs",
+      "reminder": true,
+      "id": 9
+    },
+    {
+      "text": "Pegarse un baño",
+      "day": "martes 21 de junio 11 hs",
+      "reminder": true,
+      "id": 10
+    },
+    {
+      "text": "Comer el almuerzo",
+      "day": "martes 21 de junio 12 hs",
+      "reminder": true,
+      "id": 11
+    },
+    {
+      "text": "Terminar el modulo 5",
+      "day": "martes 21 de junio 14 hs",
+      "reminder": true,
+      "id": 12
+    },
+    {
+      "text": "Terminar el modulo 6",
+      "day": "martes 21 de junio 17 hs",
+      "reminder": true,
+      "id": 13
+    },
+    {
+      "text": "Investigar sobre POO",
+      "day": "martes 21 de junio 19 hs",
+      "reminder": true,
+      "id": 14
+    },
+    {
+      "text": "Revisar la pagina de la UNLa para ver las fechas de finales",
+      "day": "martes 21 de junio 22 hs",
+      "reminder": true,
+      "id": 15
+    }
+  ]
+}
